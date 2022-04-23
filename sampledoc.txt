@@ -1,2 +1,6 @@
 I've created this doc for to merge e the branch with main branch.
+<<<<<<< HEAD
 I'm configuring the webshook jon by adding a new file to git hub repository. 
+=======
+Webhook job file is configured. 
+>>>>>>> 7fa8cc21403feaab22e821c23ca8bd990b7a8a4b
